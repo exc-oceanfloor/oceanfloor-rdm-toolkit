@@ -56,8 +56,6 @@ Researchers are welcome to contribute improvements! Please see [`CONTRIBUTING.md
 - Daniel Damaske (PANGAEA/MARUM)
 - Michael Oellermann (ICBM - Uni Oldenburg)
 
-**Contact**: datastewards.oceanfloor@uol.de
-
 ---
 
 ## 📄 License
