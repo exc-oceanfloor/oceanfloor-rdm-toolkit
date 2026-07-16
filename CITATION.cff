@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Ocean Floor Research Data Management Toolkit: Resources for FAIR Marine Research"
+message: "If you use this repository in your research, teaching, or training materials, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Ocean Floor Data Stewardship Team"
+    name-particle: ""
+    given-names: ""
+    affiliation: "MARUM - Center for Marine Environmental Sciences & Institute for Chemistry and Biology of the Marine Environment (ICBM)"
+  - family-names: Oellermann
+    given-names: Michael
+    affiliation: "Institute for Chemistry and Biology of the Marine Environment (ICBM)"
+  - family-names: Liu
+    given-names: Weimin
+    affiliation: "MARUM - Center for Marine Environmental Sciences"
+  - family-names: Damaske
+    given-names: Daniel
+    affiliation: "PANGAEA - Data Publisher for Earth & Environmental Science"
+
+repository-code: "https://github.com/exc-oceanfloor/oceanfloor-rdm-toolkit"
+url: "https://github.com/exc-oceanfloor/oceanfloor-rdm-toolkit"
+
+license: MIT
+
+abstract: >
+  A curated collection of resources, templates, code examples,
+  workflows, and best practices supporting FAIR, reproducible,
+  and high-quality marine research data management within the
+  Cluster of Excellence Ocean Floor.
+
+keywords:
+  - FAIR
+  - Research Data Management
+  - Marine Science
+  - Oceanography
+  - Reproducible Research
+  - Metadata
+
+version: "0.1.0"
+
+date-released: 2026-07-16
