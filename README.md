@@ -5,7 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![FAIR Research](https://img.shields.io/badge/FAIR-Research-success)
 
-Resources, templates, code examples, and workflows supporting **FAIR**, reproducible, and high-quality marine research data management within the [Cluster of Excellence Ocean Floor](https://oceanfloor.marum.de/index.html).
+Resources, templates, code examples, and workflows supporting **FAIR**, reproducible, and high-quality marine research data management within the [Excellence Cluster Ocean Floor](https://oceanfloor.marum.de/index.html).
 
 Maintained by the **Data Stewardship Team**, this repository serves as a curated resource hub bringing together tools, templates, example code, and best practices to support researchers throughout the entire research lifecycle—from project planning to publication and long-term data preservation.
 
@@ -119,6 +119,14 @@ For information on contributing via Issues and Pull Requests, please see our **[
 
 ---
 
+## 🌍 Community
+
+We are committed to maintaining a welcoming and respectful community.
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in discussions or contributing to this repository.
+
+---
+
 # 👥 Maintainers
 
 This repository is curated and maintained by the **[Ocean Floor Data Stewardship Team](https://oceanfloor.marum.de/en/Research-Data-Management.html)**.
@@ -130,6 +138,7 @@ Current maintainers:
 - Michael Oellermann (ICBM - University of Oldenburg)
 
 ---
+
 
 # ⭐ Acknowledgements
 
